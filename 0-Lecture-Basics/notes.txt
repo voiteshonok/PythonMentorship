@@ -1,0 +1,11 @@
+1. Установите python любым известным вам способом
+2. Создайте и активируйте enviroment
+python3 -m venv env
+source env/bin/activate
+
+перед командной строкой появилось имя энва (env)
+3. Установите jupyter lab через pip
+pip install jupyterlab
+4. Теперь вы можете открыть юпитер в текущей директории
+jupyter lab
+вуаля
